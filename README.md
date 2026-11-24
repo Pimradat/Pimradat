@@ -9,4 +9,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" />
 
 ### 📊 สถิติ GitHub (GitHub Stats)
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aksrapak&show_icons=true&theme=tokyonight&hide_border=true"/>
