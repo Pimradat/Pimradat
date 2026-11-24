@@ -1,16 +1,13 @@
-## Hi there 👋
+### สวัสดีค่ะ [ชื่อของคุณ] นะคะ 👋
+**[ตำแหน่งงาน หรือ สายงาน เช่น Frontend Developer]**
 
-<!--
-**Pimradat/Pimradat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 กำลังพัฒนา: **[ชื่อโปรเจกต์ / เทคโนโลยีที่ทำอยู่]**
+- 🌱 กำลังเรียนรู้: **[สิ่งที่กำลังศึกษา]**
+- 📫 ติดต่อ: **[อีเมล หรือ ลิงก์ LinkedIn]**
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 GitHub Stats
+<!-- เปลี่ยน YOUR_GITHUB_USERNAME เป็น Username ของคุณ -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
