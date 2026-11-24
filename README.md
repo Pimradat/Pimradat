@@ -9,4 +9,4 @@
 ### 📊 สถิติ GitHub (GitHub Stats)
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aksrapak&show_icons=true&theme=tokyonight&hide_border=true"/>
 Markdown
-* **GitHub:** [github.com/Ypimradat](https://github.com/pimradat
+* **GitHub:** [github.com/Ypimradat](https://github.com/pimradat)
